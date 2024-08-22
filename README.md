@@ -1,4 +1,5 @@
-To-Do List Java Spring Boot Project
+To-Do List Java e Spring Boot
+
 Este é um projeto de To-Do List desenvolvido em Java com Spring Boot. Ele oferece uma aplicação simples e eficiente para gerenciar suas tarefas diárias. Esse projeto foi realizado durante o curso de Java da Rocketseat.
 
 Funcionalidades Principais
